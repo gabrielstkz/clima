@@ -39,7 +39,7 @@ document.querySelector('#search').addEventListener('submit', async (event) => {
     }
 });
 
-function showInfo(json){
+function showInfo(json) {
     showAlert('');
 
     // mostrar os dados
